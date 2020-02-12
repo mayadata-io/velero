@@ -49,12 +49,6 @@ SIGHUP integrates Velero in its [Fury Kubernetes Distribution][81] providing pre
 
 **[MayaData][90]**  
 MayaData is a large user of Velero as well as a contributor. MayaData offers a Data Agility platform called [OpenEBS Director][91], that helps customers confidently and easily manage stateful workloads in Kubernetes. Velero is one of the core software building block of the OpenEBS Director's [DMaaS or data migration as a service offering][92] used to enable data protection strategies.
- 
-
- as a part  
-
-
-MayaData, the main contributor and founder of the [OpenEBS][91] project
 
 
 ## Adding a logo to velero.io
